@@ -8,6 +8,6 @@ Quick and dirty css for Vivaldi, for Nocturnal 10 VS. To set it up :
 4. Put custom.css in the same folder.
 5. Put favicon-speeddials.jpg in the resources folder.
 
-It's incomplete and REALLY messy but it'll work. I put comments here and there, so you should be able to edit the colors and stuff.
+It's incomplete and REALLY messy but it'll work. I've put comments here and there, so you should be able to edit the colors and stuff.
 
 Nocturnal VS : http://decagonal.deviantart.com/art/Nocturnal-W10-582106490
