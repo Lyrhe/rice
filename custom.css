@@ -1,0 +1,136 @@
+/* Active tab */
+.ui-dark .tab-position .tab.active {
+    color: #867A6F;
+    background-color: #1E1E2A;
+}
+/* Basic UI */
+#browser.ui-dark {
+    background-color: #15151F;
+}
+/* Inactive tab */
+.ui-dark .tab-position .tab {
+    background-color: #15151F;
+}
+/* Panel bar*/
+.ui-dark #switch {
+    background-color: #1E1E2A;
+}
+/* Address Bar */
+.ui-dark .toolbar.toolbar-addressbar {
+    background-color: #1E1E2A;
+}
+/* Address input field */
+.addressfield form input.url {
+    background-color: #15151F;
+}
+/* Address field favicon */
+.addressfield .addressfield-siteinfo {
+    background-color: #15151F;
+    border: 1px solid #15151F;
+}
+/* Border address field unfocused */
+.ui-dark .addressfield:not(.focused) {
+    border-color: #15151F!important;
+}
+/* Border address field focused */
+.color-behind-tabs-on.ui-dark .addressfield.focused:after,.color-behind-tabs-on.ui-dark .searchfield.focused:after,.color-behind-tabs-on.ui-light.private .addressfield.focused:after,.color-behind-tabs-on.ui-light.private .searchfield.focused:after,.ui-tabcolor-off.ui-dark .addressfield.focused:after,.ui-tabcolor-off.ui-dark .searchfield.focused:after,.ui-tabcolor-off.ui-light.private .addressfield.focused:after,.ui-tabcolor-off.ui-light.private .searchfield.focused:after{
+    box-shadow:0 0 0 2px rgba(21,21,31,.6) inset
+}
+.addressfield {
+    border-color: #15151F!important;
+    background-color: #15151F!important;
+}
+/* Search bar field focused */
+.ui-dark .searchfield {
+    background-color: #15151F!important;
+    border-color: #15151F!important;
+}
+/* Search bar field unfocused */
+.private.ui-light .addressfield:not(.focused), .private.ui-light .searchfield:not(.focused), .ui-dark .addressfield:not(.focused), .ui-dark .searchfield:not(.focused) {
+    border-color: #15151F!important;
+}
+/* URL drop-down */
+.ui-dark .urlSearch {
+    background-color: #15151F;
+}
+/* Icons address bars  */
+button.button-addressfield {
+    border: 1px solid #15151F;
+    background-color: #15151F;
+}
+/* Hover active tab */
+.ui-dark .tab-position .tab.active:hover {
+    background-color: #1B1B27;
+}
+/* Hover unactive tabs */
+.ui-dark .tab-position .tab:not(.active):hover {
+    background-color: #1B1B27;
+}
+/* Sidebar */
+.ui-dark #switch {
+    background-color: #1E1E2A;
+}
+
+.ui-dark #notes-panel .notes-editor .note{
+    border-top-color:#1B1B27;
+    background-color:#1B1B27;
+}
+
+.ui-dark #notes-panel .notes-editor {
+    border-top-color: #1e1e2a;
+    background-color: #1e1e2a;
+}
+
+.ui-dark .notes-cardwrapper {
+    background-color: #1B1B27;
+    box-shadow: none;
+}
+
+.ui-dark .panel-group{
+    background-color:#1E1E2A!important;
+}
+
+.ui-dark input{
+    background-color: #15151F;
+    border-color: #15151F;
+}
+
+.ui-dark .startpage-navigation, {
+    background-color: #1B1B27;
+}
+
+.tab-position .tab.active .tab-header .favicon {
+ background-color: #1E1E2A;
+ box-shadow: 0 0 0 1px #1E1E2A inset;
+}
+
+.ui-dark#browser.ui-dark #header {
+    color: #867A6F;
+}
+
+button, input, select {
+    color: #867A6F;
+}
+
+.ui-dark .addressfield input.url
+    color: #C5B19E;
+}
+
+._default-focus{
+    box-shadow:0 0 0 3px rgba(0,110,215,.01);
+    outline:#006ed7 solid 1px;
+    outline-offset:-1px
+}
+
+
+.ui-dark .startpage-navigation {
+    background-color: #1E1E2A;
+}
+
+.ui-dark .button-startpage, .ui-dark .startpage-navigation, .ui-light .ui-dark .button-startpage, .ui-light .ui-dark .startpage-navigation {
+    background-color: #1E1E2A;
+}
+
+
+
+
